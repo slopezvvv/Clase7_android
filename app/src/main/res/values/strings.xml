@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clase7_android</string>
+    <string name="eRut">Ingrese rut</string>
+    <string name="eNombre">Nombre completo</string>
+    <string name="eDireccion">Direccion</string>
+    <string name="eTelefono">Telefono</string>
+    <string name="btnRegistrar">Registrar usuario</string>
+</resources>
